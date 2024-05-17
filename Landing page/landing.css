@@ -1,0 +1,124 @@
+img{
+    position:absolute;
+    top: 20px;
+    left: 20px;
+    width: 25px;
+    height: 25px;
+
+}
+.main {
+    position:absolute;
+    top: 10px;
+    left: 50px;
+    color: white;
+    font-size: 8px;
+  
+}
+.dash {
+    position:absolute;
+    top: 45px;
+    left: 330px;
+    color: white;
+    font-size: 8px;
+  
+}
+.search{
+    position:absolute;
+    top: 43px;
+    left: 700px ;
+    color: white;
+    font-size: 8px;
+}
+input[type="text"] {
+    padding: 10px;
+    background-color: #3a3a3a;
+    border: #3a3a3a;
+    color: #fffcfc;
+    width: 250px;
+    border-radius: 25px;
+    font-size: 10px;
+}
+button {
+    padding: 10px 20px;
+    background-color: #403f3f;
+    border: none;
+    color: #fffcfc;
+    border-radius:25px;
+    cursor: pointer;
+    font-size: 10px;
+}
+.update{
+    position:absolute;
+    top: 250px;
+    left: 50px;
+    color: white;
+    font-size: 8px;
+}
+.dash2{
+    position:absolute;
+    top: 220px;
+    left: 50px;
+    color: rgb(168, 159, 204);
+    font-size: 8px;
+}
+.large-image{
+    position:absolute;
+    top: 230px;
+    left: 330px;
+    color: white;
+    width: 65px;
+    height: 65px;
+}
+.empd{
+    position:absolute;
+    top: 145px;
+    left: 330px;
+    color: white;
+    font-size: 12px;
+}
+.name{
+    width: 400px;
+    border-radius:25px;
+    position:absolute;
+    top: 225px;
+    left: 420px;
+    color: white;
+    font-size: 7px;
+    background-color: #2f2651;
+}
+.logout{
+    position:absolute;
+    top: 45px;
+    left: 1350px;
+    color: white;
+    font-size: 8px;
+  
+}
+.menu{
+    position:absolute;
+    top: 150px;
+    left: 50px;
+    color: rgb(253, 252, 255);
+    font-size: 8px;  
+}
+.viewd{
+    width: 100px;
+    background: #3b2294;
+    border-radius: 25px;
+    position:absolute;
+    top: 228px;
+    left: 705px;
+    color: white;
+    font-size: 7px;
+    
+}
+.updated{
+    width: 100px;
+    background: #3b2294;
+    border-radius: 25px;
+    position:absolute;
+    top: 267px;
+    left: 705px;
+    color: white;
+    font-size: 7px;
+}
