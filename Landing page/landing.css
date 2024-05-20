@@ -122,3 +122,10 @@ button {
     color: white;
     font-size: 7px;
 }
+.adde{
+    position:absolute;
+    top: 280px;
+    left: 50px;
+    color: white;
+    font-size: 8px;
+}
