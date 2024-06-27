@@ -1,0 +1,1 @@
+The EPAS project aims to streamline the evaluation of employee productivity, enabling institutions and companies to make informed decisions regarding workforce management. By integrating key performance indicators into a cohesive platform, EPAS fosters a productive and efficient work environment.
